@@ -25,7 +25,7 @@ Welcome to the FixyQuest game!
 Are you ready to become a master of tidying up, fixing things, and making everything run smoothly? This app turns everyday tasks into a fun and rewarding game.
 
 #### How to Play:
-- **Complete Tasks:** Every time you complete a task, you earn 1 point.
+- **Complete Tasks:** Every completed task earns you 1 point, while the "Fix Everything" task rewards you with 5 points.
 - **Level Up:** As you accumulate points, you'll progress through different levels, each with its own unique title and rewards.
 
 #### Levels:
@@ -40,7 +40,7 @@ Each level comes with a special badge to celebrate your achievements.
 Since the software is already completely free, it didn't make sense to lock features behind paywalls or progress gates. Instead, as you progress and acquire points by completing tasks, you'll reach new titles and earn badges. This way, you can enjoy all the features from the start while still having goals to strive for!
 
 ### Make PC Maintenance Fun!
-Start completing tasks, earn points, and climb the ranks to become a **System Sage** in the FixyQuest game!
+Start completing tasks, earn points, and climb the ranks to become a System Sage in the FixyQuest game!
 
 ## Key Features
 - 🛠️ **Integrated Repair Tools:** Utilize a range of built-in Windows repair functionalities, including system file checker, network diagnostics, and more, all from one place.
