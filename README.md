@@ -93,7 +93,7 @@ Visit the official **Fixyfier** website for updates, documentation, and more:
 [https://fixyfier.com](https://fixyfier.com)
 
 ## License
-**Fixyfier** is licensed under the Fixyfier License Agreement. Refer to the <a href="https://fixyfier.com/privacy-policy/">LICENSE</a> for details.
+**Fixyfier** is licensed under the Fixyfier License Agreement. Refer to the [LICENSE](LICENSE) file for details.
 
 ## Support and Donations
 Your support helps keep **Fixyfier** running and improving! If you find this tool useful and want to contribute, consider donating:
