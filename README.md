@@ -96,7 +96,13 @@ Visit the official **Fixyfier** website for updates, documentation, and more:
 **Fixyfier** is licensed under the Fixyfier License Agreement. Refer to the [LICENSE](LICENSE) file for details.
 
 ## Support and Donations
-Your support keeps **Fixyfier** running and improving. To contribute, consider donating via [PayPal](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ), [Revolut](https://revolut.me/avardak), or becoming a [Sponsor](https://github.com/sponsors/arisvardakas).
+Your support helps **Fixyfier** grow, improve, and stay free for everyone. If you'd like to contribute, you can do so through any of the following options:
+- 💳 [PayPal](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)
+- 💸 [Revolut](https://revolut.me/avardak)
+- ❤️ [GitHub Sponsor](https://github.com/sponsors/arisvardakas)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/avardak)
+
+Every donation—big or small—makes a difference. Thank you for your support! 🙌
 
 ---
 
