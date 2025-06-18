@@ -99,8 +99,8 @@ Visit the official **Fixyfier** website for updates, documentation, and more:
 Your support helps **Fixyfier** grow, improve, and stay free for everyone. If you'd like to contribute, you can do so through any of the following options:
 - 💳 [PayPal](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)
 - 💸 [Revolut](https://revolut.me/avardak)
-- ❤️ [GitHub Sponsor](https://github.com/sponsors/arisvardakas)
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/avardak)
+- ❤️ [GitHub Sponsor](https://github.com/sponsors/arisvardakas)
 
 Every donation—big or small—makes a difference. Thank you for your support! 🙌
 
