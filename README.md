@@ -1,8 +1,8 @@
-# Fixyfier
-
 <p align="center">
   <img src="/assets/img/logo.png" alt="Fixyfier Logo" width="180">
 </p>
+
+<h1 align="center">Fixyfier</h1>
 
 A fast, technician‑friendly Windows repair and optimization tool.  
 No noise, no placebo tweaks, no bloat — only tasks that solve real problems.
