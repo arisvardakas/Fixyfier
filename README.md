@@ -1,8 +1,8 @@
 # Fixyfier
 
-> **Fixyfier is free and maintained independently.  
-> If it improves your workflow, you can support development here:**  
-> **[Support Fixyfier](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)**
+<p align="center">
+  <img src="/assets/img/logo.png" alt="Fixyfier Logo" width="180">
+</p>
 
 A fast, technician‑friendly Windows repair and optimization tool.  
 No noise, no placebo tweaks, no bloat — only tasks that solve real problems.
@@ -39,6 +39,25 @@ Just clean, transparent, reproducible system repair.
 
 ---
 
+## App Themes
+
+Fixyfier includes both **Light** and **Dark** themes for comfortable use in any environment.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="/assets/img/light.png" alt="Fixyfier Light Theme" width="420"><br>
+      <sub>Light Theme</sub>
+    </td>
+    <td align="center">
+      <img src="/assets/img/dark.png" alt="Fixyfier Dark Theme" width="420"><br>
+      <sub>Dark Theme</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Installation
 
 ### **Microsoft Store (recommended)**  
@@ -59,3 +78,9 @@ winget install --id 9pp0m68r9b04 --source msstore
 
 ## License
 See the full license here: [LICENSE](LICENSE).
+
+---
+
+> **Fixyfier is free and maintained independently.  
+> If it improves your workflow, you can support development here:**  
+> **[Support Fixyfier](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)**
