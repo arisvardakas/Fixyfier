@@ -36,12 +36,12 @@
 
 ## Why Fixyfier?
 
-Most “optimization” tools are bloated, noisy, or filled with placebo tweaks.  
+Most “optimization” tools are bloated, noisy, or filled with placebo tweaks.
 Fixyfier is **clean, transparent, and technician‑friendly** — every task exists for a real reason.
 
-No ads.  
-No telemetry.  
-No background processes.  
+No ads.
+No telemetry.
+No background processes.
 No nonsense.
 
 Just reliable Windows repair.
@@ -55,31 +55,31 @@ Just reliable Windows repair.
 <td width="33%" valign="top">
 
 ### System Repair
-- Fix broken Windows components  
-- Repair system apps & Microsoft Store  
-- Re-register core Windows services  
-- Run SFC & DISM repairs  
-- Fix Windows Update issues  
+- Fix broken Windows components
+- Repair system apps & Microsoft Store
+- Re-register core Windows services
+- Run DISM & SFC repairs
+- Fix Windows Update issues
 
 </td>
 <td width="33%" valign="top">
 
 ### Cleanup & Reset
-- Clean system caches & temp files  
-- Reset networking, Bluetooth, audio  
-- Refresh hardware services  
-- Clear update caches  
-- Remove stale system data  
+- Clean system caches & temp files
+- Reset networking, Bluetooth, audio
+- Refresh hardware services
+- Clear update caches
+- Remove stale system data
 
 </td>
 <td width="33%" valign="top">
 
 ### Technician Tools
-- Modular task engine  
-- Zero bloat, zero placebo tweaks  
-- Predictable, reproducible repairs  
-- No background tasks  
-- No telemetry  
+- Modular task engine
+- Zero bloat, zero placebo tweaks
+- Predictable, reproducible repairs
+- No background tasks
+- No telemetry
 
 </td>
 </tr>
