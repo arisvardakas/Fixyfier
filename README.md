@@ -1,41 +1,103 @@
 <p align="center">
-  <img src="/assets/img/logo.png" alt="Fixyfier Logo" width="180">
+  <a href="https://fixyfier.com">
+    <img src="/assets/img/logo.png" alt="Fixyfier Logo" width="180" />
+  </a>
 </p>
 
 <h1 align="center">Fixyfier</h1>
 
-A fast, technician‑friendly Windows repair and optimization tool.  
-No noise, no placebo tweaks, no bloat — only tasks that solve real problems.
+<p align="center">
+  <b>Technician‑grade Windows repair & optimization — no bloat, no placebo tweaks, no noise.</b><br/>
+  Clean, reliable system fixes built for power users and technicians.
+</p>
 
-Fixyfier is built for power users, technicians, and anyone who needs a clean, reliable way to fix Windows issues without digging through menus, registry paths, or command‑line switches.
+<p align="center">
+  <a href="https://github.com/arisvardakas/Fixyfier/stargazers">
+    <img src="https://img.shields.io/github/stars/arisvardakas/Fixyfier?style=flat-square&label=Stars" alt="Stars" />
+  </a>
+  <a href="https://github.com/arisvardakas/Fixyfier/releases">
+    <img src="https://img.shields.io/github/v/release/arisvardakas/Fixyfier?style=flat-square" alt="Release" />
+  </a>
+  <a href="https://github.com/arisvardakas/Fixyfier/releases">
+    <img src="https://img.shields.io/github/downloads/arisvardakas/Fixyfier/total?style=flat-square&label=Downloads" alt="Downloads" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/arisvardakas/Fixyfier?style=flat-square" alt="License" />
+  </a>
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
+</p>
+
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com"><b>Website</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/documentation/"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/#support"><b>Support</b></a>
+</p>
 
 ---
 
-## Features
+<p align="center">
+  <img src="/assets/img/light.png" alt="Fixyfier Demo" width="800" />
+</p>
 
-- Repair broken Windows components and system apps  
-- Reset networking, Bluetooth, audio, and hardware services  
-- Clean temporary files and system caches  
-- Fix Windows Update issues  
-- Re-register core Windows services  
-- Run essential DISM/SFC repairs  
-- Technician‑grade tools with zero fluff  
-- Modular design — every task exists for a reason
+## Why Fixyfier?
 
----
+Most “optimization” tools are bloated, noisy, or filled with placebo tweaks.  
+Fixyfier is **clean, transparent, and technician‑friendly** — every task exists for a real reason.
 
-## Philosophy
-
-Fixyfier follows a strict rule:  
-**If a task doesn’t solve a real problem, it doesn’t exist.**
-
-No placebo tweaks.  
-No “boosters”.  
-No background processes.  
+No ads.  
 No telemetry.  
-No bloat.
+No background processes.  
+No nonsense.
 
-Just clean, transparent, reproducible system repair.
+Just reliable Windows repair.
+
+---
+
+## What It Does
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### System Repair
+- Fix broken Windows components  
+- Repair system apps & Microsoft Store  
+- Re-register core Windows services  
+- Run SFC & DISM repairs  
+- Fix Windows Update issues  
+
+</td>
+<td width="33%" valign="top">
+
+### Cleanup & Reset
+- Clean system caches & temp files  
+- Reset networking, Bluetooth, audio  
+- Refresh hardware services  
+- Clear update caches  
+- Remove stale system data  
+
+</td>
+<td width="33%" valign="top">
+
+### Technician Tools
+- Modular task engine  
+- Zero bloat, zero placebo tweaks  
+- Predictable, reproducible repairs  
+- No background tasks  
+- No telemetry  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Languages
+
+Fixyfier is available in **39 languages**, including:
+
+English, Spanish, French, German, Portuguese (Brazil), Portuguese (Portugal), Italian, Dutch, Russian, Chinese (Simplified), Chinese (Traditional), Japanese, Korean, Arabic, Hindi, Greek, Turkish, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Hungarian, Bulgarian, Romanian, Ukrainian, Serbian, Croatian, Albanian, Vietnamese, Thai, Indonesian, Filipino, Bengali, Persian, Swahili, Hebrew.
 
 ---
 
@@ -60,24 +122,19 @@ Fixyfier includes both **Light** and **Dark** themes for comfortable use in any 
 
 ## Installation
 
-### **Microsoft Store (recommended)**  
-Always up to date, digitally signed, safe.
+Get the latest stable version of Fixyfier from the Microsoft Store — safe, signed, and always up to date.
 
-https://apps.microsoft.com/detail/9pp0m68r9b04
+<p>
+  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04?referrer=appbadge&amp;mode=direct&amp;cid=github_official" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20light.svg" width="200" alt="Download from Microsoft Store">
+  </a>
+</p>
 
-### **WinGet**
+### WinGet
+
 ```powershell
 winget install --id 9pp0m68r9b04 --source msstore
 ```
----
-
-## Official Website
-[fixyfier.com](https://fixyfier.com)
-
----
-
-## License
-See the full license here: [LICENSE](LICENSE).
 
 ---
 
