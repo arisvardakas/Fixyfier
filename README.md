@@ -21,11 +21,11 @@
 </div>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04" target="_blank"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com" target="_blank"><b>Website</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com/documentation/" target="_blank"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com/#support" target="_blank"><b>Support</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/arisvardakas/Fixyfier/blob/main/LICENSE" target="_blank"><b>License</b></a> 
+  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com"><b>Website</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/documentation/"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/#support"><b>Support</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/arisvardakas/Fixyfier/blob/main/LICENSE"><b>License</b></a> 
 </p>
 
 ---
