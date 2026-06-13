@@ -11,27 +11,21 @@
   Clean, reliable system fixes built for power users and technicians.
 </p>
 
-<p align="center">
-  <a href="https://github.com/arisvardakas/Fixyfier/stargazers">
-    <img src="https://img.shields.io/github/stars/arisvardakas/Fixyfier?style=flat-square&label=Stars" alt="Stars" />
-  </a>
-  <a href="https://github.com/arisvardakas/Fixyfier/releases">
-    <img src="https://img.shields.io/github/v/release/arisvardakas/Fixyfier?style=flat-square" alt="Release" />
-  </a>
-  <a href="https://github.com/arisvardakas/Fixyfier/releases">
-    <img src="https://img.shields.io/github/downloads/arisvardakas/Fixyfier/total?style=flat-square&label=Downloads" alt="Downloads" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/arisvardakas/Fixyfier?style=flat-square" alt="License" />
-  </a>
-  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
-</p>
+<div align="center">
+
+  [![Stars](https://img.shields.io/github/stars/arisvardakas/Fixyfier?style=flat-square&label=Stars)](https://github.com/arisvardakas/Fixyfier/stargazers)
+  [![Release](https://img.shields.io/github/v/release/arisvardakas/Fixyfier?style=flat-square)](https://github.com/arisvardakas/Fixyfier/releases)
+  [![Downloads](https://img.shields.io/github/downloads/arisvardakas/Fixyfier/total?style=flat-square&label=Downloads)](https://github.com/arisvardakas/Fixyfier/releases)
+  ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
+
+</div>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com"><b>Website</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com/documentation/"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com/#support"><b>Support</b></a>
+  <a href="https://apps.microsoft.com/detail/9pp0m68r9b04" target="_blank"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com" target="_blank"><b>Website</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/documentation/" target="_blank"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://fixyfier.com/#support" target="_blank"><b>Support</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/arisvardakas/Fixyfier/blob/main/LICENSE" target="_blank"><b>License</b></a> 
 </p>
 
 ---
@@ -140,4 +134,4 @@ winget install --id 9pp0m68r9b04 --source msstore
 
 > **Fixyfier is free and maintained independently.  
 > If it improves your workflow, you can support development here:**  
-> **[Support Fixyfier](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)**
+> 👉 **[Support Fixyfier](https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ)**
