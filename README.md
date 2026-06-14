@@ -91,7 +91,7 @@ Just reliable Windows repair.
 
 Fixyfier is available in **39 languages**, including:
 
-English, Spanish, French, German, Portuguese (Brazil), Portuguese (Portugal), Italian, Dutch, Russian, Chinese (Simplified), Chinese (Traditional), Japanese, Korean, Arabic, Hindi, Greek, Turkish, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Hungarian, Bulgarian, Romanian, Ukrainian, Serbian, Croatian, Albanian, Vietnamese, Thai, Indonesian, Filipino, Bengali, Persian, Swahili, Hebrew.
+English, Spanish, Spanish (Latin America and the Caribbean), French, German, Portuguese (Brazil), Portuguese (Portugal), Italian, Dutch, Russian, Chinese (Simplified), Chinese (Traditional), Japanese, Korean, Arabic, Hindi, Greek, Turkish, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Hungarian, Bulgarian, Romanian, Ukrainian, Serbian, Croatian, Albanian, Vietnamese, Thai, Indonesian, Filipino, Bengali, Persian, Swahili, Hebrew.
 
 ---
 
