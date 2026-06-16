@@ -13,10 +13,10 @@
 
 <div align="center">
 
-  [![Stars](https://img.shields.io/github/stars/arisvardakas/Fixyfier?style=flat-square&label=Stars)](https://github.com/arisvardakas/Fixyfier/stargazers)
-  [![Release](https://img.shields.io/github/v/release/arisvardakas/Fixyfier?style=flat-square)](https://github.com/arisvardakas/Fixyfier/releases)
-  [![Downloads](https://img.shields.io/github/downloads/arisvardakas/Fixyfier/total?style=flat-square&label=Downloads)](https://github.com/arisvardakas/Fixyfier/releases)
-  ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
+  ![Utility](https://img.shields.io/badge/Type-System%20Utility-purple?style=flat-square)
+  ![Windows](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)
+  [![License](https://img.shields.io/badge/License-Fixyfier%20License%20Agreement-F39C12?style=flat-square)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 </div>
 
@@ -24,8 +24,7 @@
   <a href="https://apps.microsoft.com/detail/9pp0m68r9b04"><b>Microsoft Store</b></a> &nbsp;&middot;&nbsp;
   <a href="https://fixyfier.com"><b>Website</b></a> &nbsp;&middot;&nbsp;
   <a href="https://fixyfier.com/documentation/"><b>Documentation</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://fixyfier.com/#support"><b>Support</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/arisvardakas/Fixyfier/blob/main/LICENSE"><b>License</b></a> 
+  <a href="https://fixyfier.com/#support"><b>Support</b></a>
 </p>
 
 ---
