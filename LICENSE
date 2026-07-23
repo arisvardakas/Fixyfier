@@ -1,10 +1,12 @@
 Fixyfier License Agreement
 
-© 2025 – 2026 Aris Vardakas. All rights reserved.
+© 2025 - 2026 Aris Vardakas. All rights reserved.
 
 This software is provided by Aris Vardakas ("the Licensor") for both personal and commercial use. By downloading, installing, and using this software, Fixyfier, on any device that you own or control, you agree to be bound by the terms and conditions of this license agreement.
 
-Data Collection and Usage: Fixyfier does not collect, access, or transmit any personal information. Your privacy is fully protected as no identifiable data is gathered or processed. The Licensor complies with all relevant privacy laws and regulations.
+Data Collection and Usage: Fixyfier does not collect, store, or transmit any personal information to the Licensor. The application runs locally on your device and gathers no identifiable data for the Licensor's use. Where Fixyfier interacts with the Microsoft Store to verify ownership of the optional in-app product described below, that interaction is handled entirely by the Microsoft Store and returns only a confirmation of whether the current account owns the product; no personal, account, or payment information is accessed by, or made available to, the Licensor. The Licensor complies with all relevant privacy laws and regulations.
+
+Purchases and In-App Products: Fixyfier is free to use. It offers a single optional, one-time in-app purchase, "Support the Developer", which unlocks the MyTools feature. This purchase is entirely optional, and every other feature works identically whether or not it is bought. Purchases are processed exclusively through the Microsoft Store using your Microsoft account. All payment, billing, and account information is handled by Microsoft under the Microsoft Store Terms of Sale and the Microsoft Privacy Statement, and is never received or stored by the Licensor. To determine whether the feature should be unlocked, Fixyfier asks the Microsoft Store whether your account owns the product and stores only a small, non-personal ownership indicator locally on your device; this indicator contains no personal information and is not transmitted to the Licensor.
 
 Data Security: Although Fixyfier does not collect personal data, the Licensor is committed to maintaining high standards of security, including encryption and regular updates, to ensure the software operates securely on your device.
 
@@ -14,6 +16,6 @@ Restrictions: You may not modify, reverse engineer, decompile, disassemble, or o
 
 Intellectual Property: You acknowledge and agree that this software is the proprietary and confidential property of the Licensor. All intellectual property rights in this software belong to the Licensor. You agree to respect and protect these rights and not to infringe or violate them in any way.
 
-Warranties and Liability: The Licensor makes no warranties or representations of any kind with respect to this software. This software is provided "as is" and "as available" without any express or implied warranty of any kind. The Licensor disclaims all liability for any damages or losses arising from your use of or inability to use this software, including interactions with third-party software or services.
+Warranties and Liability: The Licensor makes no warranties or representations of any kind with respect to this software. This software is provided "as is" and "as available" without any express or implied warranty of any kind. The Licensor disclaims all liability for any damages or losses arising from your use of or inability to use this software, including interactions with third-party software or services. All purchases are subject to the terms and refund policies of the Microsoft Store.
 
 If you have any questions or concerns about this license agreement, please contact info@fixyfier.com.
