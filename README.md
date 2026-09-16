@@ -32,8 +32,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/img/dark.png">
-    <img src="assets/img/light.png" alt="The Fixyfier dashboard" width="820">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/img/fixyfier-dark-mode-interface.png">
+    <img src="assets/img/fixyfier-dark-mode-interface.png" alt="The Fixyfier dashboard" width="820">
   </picture>
 </p>
 
@@ -187,12 +187,12 @@ Light and dark, switchable from the top bar, and the whole app follows.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/img/light.png" alt="Light theme" width="420"><br>
-      <sub><b>Light</b></sub>
+      <img src="assets/img/fixyfier-light-mode-interface.png" alt="Light theme" width="420"><br>
+      <sub><b>Light Theme</b></sub>
     </td>
     <td align="center">
-      <img src="assets/img/dark.png" alt="Dark theme" width="420"><br>
-      <sub><b>Dark</b></sub>
+      <img src="assets/img/fixyfier-dark-mode-interface.png" alt="Dark theme" width="420"><br>
+      <sub><b>Dark Theme</b></sub>
     </td>
   </tr>
 </table>
