@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  ![Version](https://img.shields.io/badge/Version-9.0.0-375A7F?style=flat-square)
+  ![Version](https://img.shields.io/badge/Version-9.1.0-375A7F?style=flat-square)
   ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square&logo=windows)
   ![Type](https://img.shields.io/badge/Type-System%20Utility-purple?style=flat-square)
   ![Languages](https://img.shields.io/badge/Languages-39-1A8754?style=flat-square)
@@ -61,20 +61,6 @@ yourself from an elevated terminal**, and you are shown the command line first.
 Settings live in `HKCU\SOFTWARE\Fixyfier`. Nothing runs in the background once the app
 is closed, and the only thing Fixyfier ever downloads is the community cleaning-rules
 list, on request, straight into memory.
-
----
-
-## What's new in 9.0.0
-
-| | |
-|---|---|
-| **Routines** | Save any sequence of tasks and run it again with one click. |
-| **Installed Apps** | Every Store app and desktop program with sizes, bulk uninstall, Reset and Repair. |
-| **Services** | Windows' own description of each service, what depends on it, and what may safely change. |
-| **One Fix** | Quick Fix and Deep Fix replaced by a single Fix task with a picker of seven repair steps. |
-| **Real state, not guesses** | Every enable/disable pair is now one switch that reads this PC's actual state. |
-| **Run window** | Live output, a Stop button, and an offer to restart when a change needs it. |
-| **Extra Cleaning Rules** | Community `winapp2.ini` rules, with everything listed before anything is deleted. |
 
 ---
 
@@ -255,7 +241,7 @@ no subscription, no tiers, and every other feature of Fixyfier works exactly the
 <p align="center">
   <b>Fixyfier is free and maintained independently.</b><br/>
   If it saves you time, you can support it here:<br/><br/>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ"><b>❤️ Support Fixyfier</b></a>
+  ❤️ <a href="https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ"><b>Support Fixyfier</b></a>
 </p>
 
 <p align="center">
