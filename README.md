@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  ![Version](https://img.shields.io/badge/Version-9.1.0-375A7F?style=flat-square)
+  ![Version](https://img.shields.io/badge/Version-9.1.1-375A7F?style=flat-square)
   ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square&logo=windows)
   ![Type](https://img.shields.io/badge/Type-System%20Utility-purple?style=flat-square)
   ![Languages](https://img.shields.io/badge/Languages-39-1A8754?style=flat-square)
