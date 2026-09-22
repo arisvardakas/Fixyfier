@@ -246,6 +246,6 @@ no subscription, no tiers, and every other feature of Fixyfier works exactly the
 
 <p align="center">
   <sub><a href="https://fixyfier.com/documentation/">Documentation</a> &middot;
-  <a href="https://fixyfier.com/troubleshooting/">Troubleshooting guides</a> &middot;
+  <a href="https://fixyfier.com/troubleshooting/">Troubleshooting Guides</a> &middot;
   <a href="https://fixyfier.com">fixyfier.com</a></sub>
 </p>
