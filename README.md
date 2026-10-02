@@ -16,7 +16,7 @@
   ![Version](https://img.shields.io/badge/Version-9.4.0-375A7F?style=flat-square)
   ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square&logo=windows)
   ![Type](https://img.shields.io/badge/Type-System%20Utility-purple?style=flat-square)
-  ![Languages](https://img.shields.io/badge/Languages-39-1A8754?style=flat-square)
+  ![Languages](https://img.shields.io/badge/Languages-44-1A8754?style=flat-square)
   [![License](https://img.shields.io/badge/License-Fixyfier%20License%20Agreement-F39C12?style=flat-square)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
