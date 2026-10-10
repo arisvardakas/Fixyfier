@@ -6,10 +6,24 @@
 
 <h1 align="center">Fixyfier</h1>
 
+<!-- Public landing page and branding assets for Fixyfier. This repository does not contain the Windows app source or build pipeline. -->
+
 <p align="center">
   <b>Technician-grade Windows repair &amp; maintenance — no bloat, no placebo tweaks, no noise.</b><br/>
   Every task is a documented Windows command, and you see it before it runs.
 </p>
+
+## Repository status
+
+This repository contains the public-facing Fixyfier product page, brand assets, and screenshots. It is not the source tree for the Windows application itself; the app is distributed via the Microsoft Store and its implementation lives outside this checkout.
+
+### What is in this repo
+
+- `README.md` — project overview, product positioning, and installation links
+- `LICENSE` — license terms for the published material in this repository
+- `assets/img/` — product logo and interface screenshots used in the landing page
+
+This documentation reflects the current contents of the repository and avoids implying that the application source code is included here.
 
 <div align="center">
 
