@@ -302,7 +302,17 @@ no subscription, no tiers, and every other feature of Fixyfier works exactly the
 
 <p align="center">
   <b>Fixyfier is free and maintained independently.</b><br/>
-  If it saves you time, you can support it here:<br/><br/>
+  If it saves you time, you can support it here:
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ">
+    <img src="assets/img/paypal-donation-qr-code.png" alt="PayPal donation QR code for Fixyfier" width="148" height="148" />
+  </a><br/>
+  <sub>Scan with your phone's camera, or click the code</sub>
+</p>
+
+<p align="center">
   ❤️ <a href="https://www.paypal.com/donate/?hosted_button_id=5ZA38NSJHMWHJ"><b>Support Fixyfier</b></a>
 </p>
 
