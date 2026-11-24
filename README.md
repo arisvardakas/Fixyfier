@@ -16,7 +16,7 @@
   ![Version](https://img.shields.io/badge/Version-9.6.0-375A7F?style=flat-square)
   ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square&logo=windows)
   ![Type](https://img.shields.io/badge/Type-System%20Utility-purple?style=flat-square)
-  ![Languages](https://img.shields.io/badge/Languages-44-1A8754?style=flat-square)
+  ![Languages](https://img.shields.io/badge/Languages-Multilingual-1A8754?style=flat-square)
   ![Accessibility](https://img.shields.io/badge/Screen%20Readers-Supported-1A8754?style=flat-square)
   [![License](https://img.shields.io/badge/License-Fixyfier%20License%20Agreement-F39C12?style=flat-square)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
@@ -48,6 +48,7 @@ Fixyfier collects the repair tools Windows already ships with — DISM, SFC, CHK
 built-in troubleshooters, the network stack commands, winget, Windows Update and dozens of
 buried settings — puts them one click away, and adds the answers Windows keeps in its own
 records: why the PC is slow, what crashed, what changed, what got worse, where the space went.
+Its tests then show how the PC really holds up under load.
 
 It is a convenience layer, not a magic fix. **Nothing happens that you could not do
 yourself from an elevated terminal**, and you are shown the command line first.
@@ -65,22 +66,23 @@ Settings, routines and your change history live in one file, `settings.json` in
 `%LOCALAPPDATA%\Fixyfier`, on your PC only, with a backup copy beside it. No log files are
 kept unless you turn on the Log yourself. Fixyfier goes online only when a task needs it:
 app installs and updates, driver updates, the extra cleaning rules, network tests, the speed
-test (only when you press Start), guide links, the update check and the Microsoft Store
-purchase check. **Offline Mode** stops all of it with one switch, and **What Has Fixyfier
-Done?** lists every time it went online in this session, and why.
+test (only when you press Start), guide links, the update check, the Microsoft Store
+purchase check and, on Windows 11, search by voice (Windows' own voice typing). **Offline Mode**
+stops all of it with one switch, and **What Has Fixyfier Done?** lists every time it went
+online in this session, and why.
 
 ---
 
 ## What it does
 
-Close to **300 tasks, switches and answers** across **sixteen screens**, grouped by what you are trying to achieve.
+**250+ tasks, switches, answers and tests**, on screens grouped by what you are trying to achieve.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🖥️ Dashboard
-What the machine is — with its serial number, model and battery health — live gauges and a **System Health** card in four groups. Plus a **34-check System Check-up**, **What Changed** in the last 30 days with Undo, and **Layouts**: desktop icons and windows saved to scale across every screen and virtual desktop, restored with a keyboard shortcut or by themselves.
+What the machine is — with its serial number, model and battery health — live gauges, **Quick Actions** for everyday tasks in one click, a **System Health** card and your latest test results. Plus the **System Check-up**, and **Layouts**: desktop icons and windows saved to scale across every screen and virtual desktop, restored with a keyboard shortcut or by themselves.
 
 </td>
 <td width="33%" valign="top">
@@ -91,38 +93,52 @@ Star any task to pin it, run the first nine with `Ctrl+1`–`Ctrl+9`, and chain 
 </td>
 <td width="33%" valign="top">
 
-### 🔧 Fix &amp; Repair
-One Fix pass with seven steps, DISM, SFC, CHKDSK, the icon and search caches, **Fix Hardware Detection Issues** (why a drive or USB device stays hidden), undoing other tools' damage, and every built-in troubleshooter — grouped by what is broken.
+### 📊 Insights
+What Windows has recorded about this PC, drawn so you can see it: **What Changed** in the last 30 days with Undo, the **Hardware Health Map** (where a hardware problem appeared, with a PCIe link check), **Boot Replay**, **What Heats My PC**, **My Network** with new devices marked, and on a laptop **The Battery's Week**.
 
 </td>
 </tr>
 <tr>
+<td valign="top">
+
+### 🧪 Tests
+Tests that only measure and change nothing: **GPU Stress Test**, **Throttling Detective**, **Memory Check**, **Before &amp; After**, **Frame Times**, **Wi-Fi Walk Test**, **Audio Crackle &amp; Stutter Detective**, **What's Thrashing the Disk** and **Mouse &amp; Keyboard Check** — each with what the result usually means and what helps most.
+
+</td>
+<td valign="top">
+
+### 🔧 Fix &amp; Repair
+One Fix pass, DISM, SFC, CHKDSK, the icon and search caches, **Fix Hardware Detection Issues** (why a drive or USB device stays hidden), undoing other tools' damage, and every built-in troubleshooter — grouped by what is broken.
+
+</td>
 <td valign="top">
 
 ### 🧹 Cleanup &amp; Optimize
 Temp files, the Recycle Bin, Teams and Outlook caches, `Windows.old`, restore points, Storage Sense and community cleaning rules that remember what you chose — always with a dry run first.
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 ### 🛠️ System Tools
-Specifications and drive health, Windows Features, **Explorer &amp; Taskbar** switches, **Set Services to Manual** with Put Back, a PC report, moving to a new PC, and **Windows Image Creator** — a clean Windows ISO without the extras you untick.
+Specifications and drive health, Windows Features, **Explorer &amp; Taskbar** switches, **Set Services to Manual** with Put Back, a PC report, moving to a new PC, and **Windows Image Creator** — a clean Windows ISO without the extras you untick, written straight to a USB drive if you like.
 
 </td>
 <td valign="top">
 
 ### 🪟 Windows Tools
-**33** Windows consoles and pages one click away — Event Viewer, Device Manager, Registry Editor, Services, Task Manager — and the classic Control Panel windows people still look for, from System Properties to Credential Manager.
+Dozens of Windows consoles and pages one click away — Event Viewer, Device Manager, Registry Editor, Services, Task Manager — and the classic Control Panel windows people still look for, from System Properties to Credential Manager.
+
+</td>
+<td valign="top">
+
+### 🔒 Security &amp; Privacy
+Defender scans, the firewall, Smart App Control and User Account Control, **Block Ads &amp; Telemetry**, dozens of advertising, suggestion and diagnostic-data switches, **AI Features** (Recall, Click to Do, Paint and Notepad, and the AI models Windows keeps in memory), **Edge Debloat** with Microsoft's own policies, and **Offline Mode**.
 
 </td>
 </tr>
 <tr>
-<td valign="top">
-
-### 🔒 Security &amp; Privacy
-Defender scans, the firewall, Smart App Control and User Account Control, **50+** advertising, suggestion and diagnostic-data switches, **AI Features** (Recall, Click to Do, Paint and Notepad), **Edge Debloat** with Microsoft's own policies, and **Offline Mode**.
-
-</td>
 <td valign="top">
 
 ### 🌐 Network &amp; Connectivity
@@ -132,21 +148,21 @@ Your IP addresses, Wi-Fi details, sharing Wi-Fi with a QR code, ping, traceroute
 <td valign="top">
 
 ### 🔄 Updates
-**Install Apps** (about eighty popular programs plus winget's whole catalogue, with app lists to export and import), app updates, **Update Drivers** from Windows Update — never an older one — and **Windows Update Settings**: pause, delay or stay on this version.
+**Install Apps** (a list of popular programs plus winget's whole catalogue, with app lists to export and import), app updates, **Update Drivers** from Windows Update — never an older one — and **Windows Update Settings**: pause, delay or stay on this version.
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### 📁 Files &amp; Folders
 Force-delete, unlock, lock, hide, repair permissions, get back an older version, check a file's fingerprint, and **Eject a Drive** that names the program holding it — most of them also in File Explorer's right-click menu.
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 ### 📦 Installed Apps
-Every app in one fast list with sizes, multi-select uninstall, Reset and Repair, Startup Apps and programs' scheduled tasks A to Z, and a switch for each of **31** preinstalled apps.
+Every app in one fast list with sizes, multi-select uninstall, Reset and Repair, Startup Apps and programs' scheduled tasks A to Z, and a switch for each app Windows preinstalls.
 
 </td>
 <td valign="top">
@@ -155,32 +171,30 @@ Every app in one fast list with sizes, multi-select uninstall, Reset and Repair,
 **Game Session** sets the PC up for playing in one click — power plan, updates paused, Game Mode, background programs closed — and **End Game Session** puts back exactly what it changed. With the gaming switches that make a measurable difference, and no fake "FPS boosts".
 
 </td>
+<td valign="top">
+
+### 📜 Scripts &amp; MyTools
+Generate a cleanup batch file, build your own, or run your `.bat`, `.cmd`, `.ps1` and `.vbs` files with the rights Fixyfier already has — and **fixyfier-cli**, Fixyfier from the command line.
+
+</td>
 </tr>
 <tr>
 <td valign="top">
 
 ### ❓ Answers
-**34** questions about this PC as it is now, answered from Windows' own records, many with charts: why there is no sound, **Why Does My Game Stutter?**, **How Fast Is My Internet?**, **Who Is on My Network?**, **Find Where the Connection Breaks**, and **What Is Taking Up the Space?** with the whole drive drawn as a map.
+Questions about this PC as it is now, answered from Windows' own records, many with charts: why there is no sound, **Why Does My Game Stutter?**, **How Fast Is My Internet?**, **Find Where the Connection Breaks**, and **What Is Taking Up the Space?** with the whole drive drawn as a map.
 
 </td>
 <td valign="top">
 
 ### 🕵️ PC Detective
-**32** investigations into what really happened: **What Got Worse, and Why?**, **Did It Help?**, **Rewind to the Day It Worked**, **Catch It in the Act**, **Hand It Over Sealed**, **Watch an Install**, **How Used Is This PC?**, a monthly **PC Health Letter** — and *I Think I Was Scammed*.
+Investigations into what really happened: **What Got Worse, and Why?**, **Did It Help?**, **Rewind to the Day It Worked**, **Catch It in the Act**, **Hand It Over Sealed**, **Watch an Install**, **How Used Is This PC?**, a monthly **PC Health Letter** — and *I Think I Was Scammed*.
 
 </td>
 <td valign="top">
 
-### 📜 Scripts &amp; MyTools
-Generate a cleanup batch file, build your own, or run your `.bat`, `.cmd`, `.ps1` and `.vbs` files with the rights Fixyfier already has.
-
-</td>
-</tr>
-<tr>
-<td colspan="3" valign="top" align="center">
-
 ### 📚 Troubleshooting Guides
-All **72** fixyfier.com guides in the app, each section with a short moving picture and buttons that check this PC first — and a search that understands symptoms: type or say *no sound* and it finds the audio repair.
+Every fixyfier.com guide in the app, each section with a short moving picture and buttons that check this PC first — and a search that understands symptoms: type or say *no sound* and it finds the audio repair.
 
 </td>
 </tr>
@@ -197,6 +211,7 @@ All **72** fixyfier.com guides in the app, each section with a short moving pict
 - **The right order, suggested.** *Run This First* offers what a task works best after — the image repair before system files, fresh definitions before a scan — and the lighter fix before a full network or update reset.
 - **Try before you keep.** Any switch can be turned on *on trial*: next time Fixyfier opens, it asks whether to keep it, with how the PC has done since.
 - **Unknown is a real answer.** Anything Fixyfier could not read says so, rather than showing green or zero.
+- **Tests only measure.** A test changes nothing on the PC, stops by itself at its limits, and says what its result usually means.
 - **Deletions preview first.** Cleanup tasks offer a dry run that lists what would go, without removing anything.
 - **A long run can be stopped.** Output is live, and Stop ends the run rather than the current step.
 - **What Windows needs stays put.** Core processes are never ended, and services Windows needs to start are never stopped, disabled or set to Manual.
@@ -206,10 +221,11 @@ All **72** fixyfier.com guides in the app, each section with a short moving pict
 
 ## Finding your way
 
-- **Search, typed or spoken.** Type a task's name or what is wrong — with *"Did you mean…?"* for typos — or click the microphone and say it. Voice search uses Windows' own offline speech recognition.
-- **Need Help?** (`F1` or `Ctrl+/`) explains the screen you are on in two plain sentences and suggests where to start when something is wrong.
-- **Help** has 13 topics, each with a short moving picture drawn in your language and theme, and *Show Me* lights up the real control in the window.
-- **The top bar** keeps the everyday tools on every screen — restore point, Quick Actions, Update Drivers, Open, Run…, Power and more — and **Customize** shows or hides any icon or screen.
+- **Search, typed or spoken.** Type a task's name or what is wrong — with *"Did you mean…?"* for typos — or click the microphone and say it. On Windows 11, Windows' own voice typing listens; on Windows 10, Windows' offline speech recognition does, and nothing leaves the PC.
+- **Explain This Screen** (the lightbulb, `F1` or `Ctrl+/`) says in two plain sentences what the screen you are on is for, and suggests where to start when something is wrong.
+- **Help** (`Ctrl+H`) has a short moving picture for each topic, drawn in your language and theme, and *Show Me* lights up the real control in the window.
+- **Quick Actions** on the Dashboard start everyday tasks in one click — a restore point, Fix, Update Drivers, a quick scan, Eject a Drive and more.
+- **The top bar** keeps Fixyfier's own things on every screen — Settings, language, theme, Accessibility, File Explorer settings, Keep Awake, Schedule Shutdown, Power, Help — and **Customize** shows or hides any icon or screen.
 - **Start with Windows**, minimized to the notification area, so Eject a Drive, layout shortcuts and the low-space notices work from the moment you sign in.
 
 ---
@@ -248,8 +264,8 @@ Light and dark, switchable from the top bar, and the whole app follows.
 
 ## Languages
 
-Fixyfier ships in **44 languages**, chosen from a grid in the top bar and applied immediately,
-with Arabic, Hebrew and Persian laid out right to left.
+Fixyfier is **multilingual**: choose a language from a grid in the top bar and it applies
+immediately, with Arabic, Hebrew and Persian laid out right to left.
 
 <details>
 <summary><b>See the full list</b></summary>
@@ -295,7 +311,11 @@ Drop a `.bat`, `.cmd`, `.ps1` or `.vbs` file into `Documents\Fixyfier\MyTools` a
 as a card straight away — no restart, no right-click, no execution-policy detour. Fixyfier is
 already elevated, so your script runs elevated.
 
-The first **three runs are free**. After that it is a one-time unlock in the Microsoft Store:
+The same unlock brings **fixyfier-cli**, Fixyfier from the command line: run your routines,
+Fixyfier's tasks, your scripts and fix files with no window, turn switches on or off, and
+preview anything with `--dry-run` first.
+
+**Try it a few times for free.** After that it is a one-time unlock in the Microsoft Store:
 no subscription, no tiers, and every other feature of Fixyfier works exactly the same either way.
 
 ---
